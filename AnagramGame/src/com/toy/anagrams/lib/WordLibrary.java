@@ -54,6 +54,8 @@ public abstract class WordLibrary {
      * @return word at that index in its natural form
      */
     public abstract String getWord(int idx);
+    
+    public String test;
 
     /**
      * Gets the word at a given index in its scrambled form.
