@@ -67,6 +67,8 @@ public abstract class WordLibrary {
      * @return the total number of plain/scrambled word pairs in the library
      */
     public abstract int getSize();
+    
+    // mal sehen ob ich es auch in der Shell hinbekomme
 
     /**
      * Checks whether a user's guess for a word at the given index is correct.
